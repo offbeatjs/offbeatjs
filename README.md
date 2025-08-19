@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**offbeatjs/offbeatjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Student** | **Freelancer** | **Web Developer**
+- I make bots for Discord, Telegram, and more. Sometimes my code actually works.
+- Languages I vibe with:  
+  `JavaScript` ・ `Next.js` ・ `Java` ・ `discord.js`
+- Always learning, sometimes shipping, mostly debugging.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎸 Interests
+- Music (Guitar is my jam)
+- Building cool stuff for the web
+- Automation & bots
+
+---
+
+### 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theyash07-blue?logo=linkedin)](https://linkedin.com/in/theyash07)
+
+---
+
+<div align="center">
+
+### 🟣 Discord  
+> <span style="font-size:1.5em;">💬</span> Always online, always coding.
+
+<img src="https://discord.c99.nl/widget/theme-3/848724317416325160.png" alt="Discord Status" style="border-radius:14px; box-shadow: 0 4px 24px #2224; margin: 1em auto;" />
+
+</div>
