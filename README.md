@@ -1,7 +1,6 @@
 ## 👋 About Me
 
 - **Student** | **Freelancer** | **Web Developer**
-- I make bots for Discord, Telegram, and more. Sometimes my code actually works.
 - Languages I vibe with:  
   `JavaScript` ・ `Next.js` ・ `Java` ・ `discord.js`
 - Always learning, sometimes shipping, mostly debugging.
