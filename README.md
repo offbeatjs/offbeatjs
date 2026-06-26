@@ -1,30 +1,63 @@
-## 👋 About Me
+# Hey, I'm Yash 👋
 
-- **Student** | **Freelancer** | **Web Developer**
-- Languages I vibe with:  
-  `JavaScript` ・ `Next.js` ・ `Java` ・ `discord.js`
-- Always learning, sometimes shipping, mostly debugging.
+### Student • Freelancer • Full-Stack Developer
 
----
+I build web applications, developer tools, and automation that solve real problems.
 
-### 🎸 Interests
-- Music (Guitar is my jam)
-- Building cool stuff for the web
-- Automation & bots
+Currently exploring AI, scalable backend systems, and product engineering.
 
 ---
 
-### 🌐 Socials
+## Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theyash07-blue?logo=linkedin)](https://linkedin.com/in/theyash07)
+```text
+JavaScript • TypeScript • Next.js • Node.js
+Java • discord.js • PostgreSQL • Prisma
+Redis • Docker • Linux
+```
+
+---
+
+## Current Focus
+
+- 🚀 Building **ChatRid**, a WhatsApp automation platform
+- 🤖 Exploring AI agents and workflow automation
+- ⚡ Building backend systems and developer tooling
+- 📚 Continuously learning and shipping new projects
+
+---
+
+## Interests
+
+- 🎸 Guitar
+- 💻 Full-stack development
+- 🤖 Automation & bots
+- ☁️ Cloud infrastructure
+- 🚀 Building products from scratch
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theyash07-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theyash07)
 
 ---
 
 <div align="center">
 
-### 🟣 Discord  
-> <span style="font-size:1.5em;">💬</span> Always online, always coding.
+## Discord
 
-<img src="https://discord.c99.nl/widget/theme-3/848724317416325160.png" alt="Discord Status" style="border-radius:14px; box-shadow: 0 4px 24px #2224; margin: 1em auto;" />
+Building something, breaking something, or probably both.
+
+<img
+  src="https://discord.c99.nl/widget/theme-3/848724317416325160.png"
+  alt="Discord Status"
+/>
 
 </div>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
